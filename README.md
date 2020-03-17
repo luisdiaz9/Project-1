@@ -24,34 +24,38 @@ The outcome is shown in screenshots for reference purpose of the public.<br>
 # Project-1
 From a database about multiple crimes around Mexico, it has been identified four places in which crimes can be predicted accurately. The linear regression models show values of certainty (R-squared) from 40 to 60 percent.<br>
 
-Disctrict: Playas de Rosarito-House Robberies	if Y = 0 vs Actual Mean<br>
+Comparison between Playas de Rosarito-House Robberies	if Y = 0 vs Actual Mean:<br>
 b:8.4799	<br>
 X:89.45042194	<br>
 a:-0.0948	<br>
 Y:0	<br>
 Actual Mean (Crimes2011-2019): 41 <br>
 R squared: 56% <br>
+Conclusion: It can be concluded that this place is 54% away from crashing the Risk Free Rate Market (1 - 41/89).
 
-Disctrict: Acapulco de Juarez-House Robberies	if Y = 0 vs Actual Mean <br>
+Comparison between Acapulco de Juarez-House Robberies	if Y = 0 vs Actual Mean:<br>
 b:7.8574 <br>
 X:53.01889339 <br>	
 a:-0.1482	<br>
 Y:0 <br>
 Actual Mean (Crimes2011-2019):22 <br>
 R squared: 42% <br>
+Conclusion: It can be concluded that this place is 58% away from crashing the Risk Free Rate Market (1 - 22/53).
 
-Disctrict: Cuernavaca-Violent Crime if Y = 0 vs Actual Mean <br>
+Comparison between Cuernavaca-Violent Crime if Y = 0 vs Actual Mean:<br>
 b:8.1771 <br>
 X:385.7122642	<br>
 a:-0.0212	<br>
 Y:0 <br>
 Actual Mean (Crimes2011-2019):168 <br>
 R squared:60% <br>
+Conclusion: It can be concluded that this place is 54% away from crashing the Risk Free Rate Market (1 - 168/385).
 
-Disctrict: Huimanguillo Tabasco-Violent Crime	if Y = 0 vs Actual Mean <br>
+Comparison between Huimanguillo Tabasco-Violent Crime	if Y = 0 vs Actual Mean:<br>
 b:7.9277 <br>
 X:97.6317734 <br>
 a:-0.0812	<br>
 Y:0 <br>
 Actual Mean (Crimes2011-2019): 41 <br>
 R squared:42%
+Conclusion: It can be concluded that this place is 58% away from crashing the Risk Free Rate Market (1 - 41/97).
