@@ -22,7 +22,7 @@ ViolentCrimeInHuimanguillo.JPG<br>
 The outcome is shown in screenshots for reference purpose of the public.<br>
 
 # Project-1
-From a database about multiple crimes around Mexico, it has been identified four places in which crimes can be predicted accurately. The linear regression models show values of certainty (R-squared) from 40 to 60 percent.<br>
+From a database of multiple crimes around Mexico, it has been identified four places in which crimes can be predicted accurately. The linear regression models show values of certainty (R-squared) from 40 to 60 percent.<br>
 
 ## Comparison between Playas de Rosarito-House Robberies	if Y = 0 vs Actual Mean:<br>
 b:8.4799	<br>
